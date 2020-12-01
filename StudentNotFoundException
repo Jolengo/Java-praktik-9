@@ -1,2 +1,2 @@
-package ru.mirea.prac9;
+package com.company;
 public class StudentNotFoundException extends RuntimeException{}
