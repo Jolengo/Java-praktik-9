@@ -1,4 +1,4 @@
-package ru.mirea.prac9;
+package com.company;
 
 import java.util.ArrayList;
 import java.util.Comparator;
